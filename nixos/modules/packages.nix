@@ -95,6 +95,8 @@
     pulseaudio # для расширенной настройки (нужен waybar'у)
     wlogout # меню выхода/перезагрузки/блокировки/сна
     xfce.thunar # файловый менеджер
+    zsh # zsh оболочка для терминала
+    zsh-syntax-highlighting
 
     # Настройки GTK/QT
     libsForQt5.qt5ct # настройка qt5ct

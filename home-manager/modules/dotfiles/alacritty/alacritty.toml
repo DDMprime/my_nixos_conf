@@ -4,45 +4,26 @@ normal = { family = "JetBrainsMono Nerd Font" }
 size = 11.25
 
 [colors.primary]
-background = "#181818"
-foreground = "#d8d8d8"
+background = "#1e1e1e"
+foreground = "#ff5555"
 
 [colors.normal]
-black = "#73777a"
-red = "#AC3232"
-green = "#A1B56C"
-yellow = "#dec26f"
-blue = "#4d88db"
-magenta = "#5e4ddb"
-cyan = "#5ba8e3"
-white = "#d5dde3"
+black   = "#1e1e1e"
+red     = "#ff5555"
+green   = "#50fa7b"
+yellow  = "#f1fa8c"
+blue    = "#bd93f9"
+magenta = "#ff79c6"
+cyan    = "#8be9fd"
+white   = "#f8f8f2"
 
 [colors.bright]
-black = "#5F6366"
-red = "#8f2929"
-green = "#899658"
-yellow = "#C0A85F"
-blue = "#3F70B6"
-magenta = "#4F40B6"
-cyan = "#4D90C2"
-white = "#BFC8CE"
+black   = "#6272a4"
+red     = "#ff6e6e"
+green   = "#69ff94"
+yellow  = "#ffffa5"
+blue    = "#d6acff"
+magenta = "#ff92df"
+cyan    = "#a4ffff"
+white   = "#ffffff"
 
-[colors.selection]
-text = "#000000"
-background = "#AC3232"
-
-[colors.search.matches]
-foreground = "#181818"
-background = "#ac4242"
-
-[colors.search.focused_match]
-foreground = "#181818"
-background = "#f4bf75"
-
-[colors.hints.start]
-foreground = "#181818"
-background = "#f4bf75"
-
-[colors.hints.end]
-foreground = "#181818"
-background = "#ac4242"
