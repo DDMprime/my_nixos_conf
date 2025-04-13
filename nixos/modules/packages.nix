@@ -106,7 +106,10 @@
     nwg-look #для удобной настройки тем gtk
     polkit_gnome #для запроса повышения прав приложения
     catppuccin # тема catppuccin
-    catppuccin-gtk
+    (pkgs.catppuccin-gtk.override {
+      accents = [ "red" ];    # Акцентный цвет
+      variant = "mocha";      # Вариант Mocha
+    })
 
     # Other
     home-manager
