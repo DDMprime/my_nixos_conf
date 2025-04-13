@@ -1,4 +1,6 @@
 {
+  home.file.".zshrc".text = "# Конфигурация управляется NixOS";
+
   home.file.".config/hypr" = {
     source = ./dotfiles/hypr;
     recursive = true;

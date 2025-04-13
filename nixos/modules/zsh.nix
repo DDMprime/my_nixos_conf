@@ -8,7 +8,7 @@
 
     ohMyZsh = {
       enable = true;
-      theme = "bira"; # Или кастомная тема
+      theme = "agnoster";
       plugins = [ "git" "sudo" "systemd" ];
     };
 
