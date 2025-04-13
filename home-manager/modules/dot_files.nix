@@ -39,6 +39,10 @@
     source = ./dotfiles/wofi;
     recursive = true;
   };
+  home.file.".config/alacritty" = {
+    source = ./dotfiles/alacritty;
+    recursive = true;
+  };
   #home.file.".config/Thunar" = {
     #source = ./dotfiles/Thunar;
     #recursive = true;
