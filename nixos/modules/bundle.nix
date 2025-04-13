@@ -7,5 +7,6 @@
     ./steam.nix
     ./autorun_input_remapper.nix
     ./zapret.nix
+    ./zsh.nix
   ];
 }

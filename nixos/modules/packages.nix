@@ -55,6 +55,7 @@
     cmus # аудио плеер
     appimage-run # для запуска appimage
     fuse # для работы приложений appimage
+    cava # визуализация аудио
 
     # Sound
     pipewire # взаимодействие с настройками звука сторонними приложениями
@@ -81,9 +82,9 @@
     xdg-desktop-portal-gtk # xdg портал gtk
     xdg-desktop-portal # управление окружением
     waybar # панель задач
-    #kitty # консоль по умолчанию в hyprland
+    #kitty # терминал по умолчанию в hyprland
     #dunst # демон уведомлений по умолчанию в hyprland
-    alacritty # текущая консоль
+    alacritty # текущий терминал
     hyprland-qt-support # для приложений, использующих qt6
     hyprpaper # обои в hyprland
     hyprlock # экран блокировки hyprland
