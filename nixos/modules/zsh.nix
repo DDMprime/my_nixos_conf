@@ -1,4 +1,5 @@
 {
+
   programs.zsh = {
     enable = true;
     enableCompletion = true;
@@ -8,7 +9,7 @@
     ohMyZsh = {
       enable = true;
       theme = "bira"; # Или кастомная тема
-      plugins = [ "git" "sudo" "z" ];
+      plugins = [ "git" "sudo" "systemd" ];
     };
 
     shellAliases = {
@@ -27,5 +28,4 @@
       ff = "fastfetch";
     };
   };
-  home.shell = "zsh"; # zsh по умолчанию
 }
