@@ -45,6 +45,10 @@
     source = ./dotfiles/alacritty;
     recursive = true;
   };
+  home.file.".config/fzf_dirs.txt" = {
+    source = ./dotfiles/fzf_dirs.txt;
+    recursive = true;
+  };
   #home.file.".config/Thunar" = {
     #source = ./dotfiles/Thunar;
     #recursive = true;

@@ -1,0 +1,4 @@
+/home/ddm
+/mnt/hdd
+/mnt/ssd
+/

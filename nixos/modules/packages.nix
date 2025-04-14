@@ -12,10 +12,10 @@
     libreoffice-qt6-fresh
     tor-browser
     input-remapper # для биндов
-    nicotine-plus #для подключения к сети soulseek
-    koboldcpp #запуск ИИ
-    mangohud #для статистики в играх
-    qtox #для общения
+    nicotine-plus # для подключения к сети soulseek
+    koboldcpp # запуск ИИ
+    mangohud # для статистики в играх
+    qtox # для общения
     obs-studio # захват экрана
     vesktop #клиент дискорда с vencord'ом
     kdePackages.kate # редактор кода kate
@@ -56,6 +56,8 @@
     appimage-run # для запуска appimage
     fuse # для работы приложений appimage
     cava # визуализация аудио
+    fzf # для отображения и работы с директориями в терминале
+    eza # для статистики (улучшенный ls)
 
     # Sound
     pipewire # взаимодействие с настройками звука сторонними приложениями
